@@ -1,6 +1,6 @@
 ![](https://repl.ca/social-mushroom.jpg)
 
-Most of my repositories are modules for, or applications in [go](https://golang.org).
+Most of my repositories are modules for, or applications in, [go](https://golang.org).
 
 ### What's exciting
 
