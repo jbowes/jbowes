@@ -6,6 +6,7 @@ Most of my repositories are modules for, or applications in, [go](https://golang
 
 - [welk](./welk) is a CLI tool that manages applications you usually install with `curl | sh`.
 - [whatsnew](./whatsnew) lets your application notify users when there are new releases.
+- [semver](./semver) is a Semantic Versioning parser that's 10x faster than the most popular package.
 - [future](./future) is an exploration of futures with go1.18+ type parameters.
 
 ### Go errors
