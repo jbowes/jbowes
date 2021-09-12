@@ -13,7 +13,7 @@ Most of my repositories are modules for, or applications in, [go](https://golang
 Many of my repositories deal with `error` values:
 
 - Use interfaces to express behaviours with [vice](https://github.com/jbowes/vice) 
-- Explicit error wrapping (instead of `%w` with cling [cling](https://github.com/jbowes/cling)
+- Explicit error wrapping (instead of `%w` with [cling](https://github.com/jbowes/cling)
 - Consume Go2/xerrors error frames programaticaly with [framerr](https://github.com/jbowes/framerr)
 - Create concrete errors with [spalling](https://github.com/jbowes/spalling)
 
