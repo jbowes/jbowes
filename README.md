@@ -7,7 +7,6 @@ Most of my repositories are modules for, or applications in, [go](https://golang
 - [welk](https://github.com/jbowes/welk) is a CLI tool that manages applications you usually install with `curl | sh`.
 - [whatsnew](https://github.com/jbowes/whatsnew) lets your application notify users when there are new releases.
 - [semver](https://github.com/jbowes/semver) is a Semantic Versioning parser that's 10x faster than the most popular package.
-- [future](https://github.com/jbowes/future) is an exploration of futures with go1.18+ type parameters.
 
 ### Go errors
 Many of my repositories deal with `error` values:
